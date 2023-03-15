@@ -138,3 +138,10 @@ digital_makeup.py:2:0: E0401: Unable to import 'face_recognition' (import-error)
 
 -----------------------------------
 Your code has been rated at 3.50/10
+
+
+Understanding of some common errors : 
+C03101 : line too long -> code on that perticular line is too long to fit on the page, ultimatly requiring to scroll
+E0401 : This error is due to inability to import objects from different files
+C0103 : Naming style is too basic for identification of the use of the variable
+W0311 : No proper indentation to identify the code flow
